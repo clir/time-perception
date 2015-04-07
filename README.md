@@ -1,2 +1,3 @@
-# time-perception
-Future event detection.
+# Time Perception
+
+* [Syntactic rules](md/syntactic-rules.md).
