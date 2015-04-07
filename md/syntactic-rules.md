@@ -1,5 +1,7 @@
 # Syntactic Rules
 
+They are rules following the definition of StanfordNLP Tregex: http://nlp.stanford.edu/software/tregex.shtml
+
 ## Future
 
 ```
