@@ -1,6 +1,14 @@
-# Syntactic Rules
+# Syntactic Rules 1.0
 
 They are rules following the definition of StanfordNLP Tregex: http://nlp.stanford.edu/software/tregex.shtml
+
+Rules are developed by Phillip Wolff and Bridget Copley
+
+If you are using this version of the rule, please cite our paper: 
+
+```
+Nie, A., Shepard, J., Choi, J., Copley, B., & Wolff, P. (2015, June). Computational Exploration of the Linguistic Structures of Future-Oriented Expression: Classification and Categorization. In NAACL-HLT 2015 Student Research Workshop (SRW) (Vol. 867, No. 164,772, p. 168).
+```
 
 ## Future
 
